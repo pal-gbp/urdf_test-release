@@ -1,0 +1,12 @@
+Source: ros-melodic-urdf-test
+Section: misc
+Priority: extra
+Maintainer: davidfernandez <david.fernandez@pal-robotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-rospy
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-urdf-test
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-rospy, ros-melodic-xacro
+Description: The urdf_test package

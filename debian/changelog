@@ -1,0 +1,44 @@
+ros-melodic-urdf-test (1.0.4-0bionic) bionic; urgency=high
+
+  * Merge branch 'add-test-suffix' into 'master'
+    Add test suffix
+    See merge request qa/urdf_test!2
+  * Add test suffix
+  * Merge branch 'fix-package-dependency' into 'master'
+    Fix package dependencies
+    See merge request !1
+  * Fix package dependencies
+  * Contributors: Victor Lopez, davidfernandez
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Tue, 11 Dec 2018 23:00:00 -0000
+
+ros-melodic-urdf-test (1.0.3-0bionic) bionic; urgency=high
+
+  * Rewrite in python for simplicity
+  * Fix dependencies
+  * Contributors: davidfernandez
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Mon, 17 Jul 2017 22:00:00 -0000
+
+ros-melodic-urdf-test (1.0.2-0bionic) bionic; urgency=high
+
+  * Fix build rule to match install rule
+  * Contributors: davidfernandez
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Sun, 16 Jul 2017 22:00:00 -0000
+
+ros-melodic-urdf-test (1.0.1-0bionic) bionic; urgency=high
+
+  * Fix installation rules
+  * Contributors: davidfernandez
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Sun, 16 Jul 2017 22:00:00 -0000
+
+ros-melodic-urdf-test (1.0.0-0bionic) bionic; urgency=high
+
+  * Initial import
+  * Contributors: davidfernandez
+
+ -- davidfernandez <david.fernandez@pal-robotics.com>  Sun, 16 Jul 2017 22:00:00 -0000
+
+
